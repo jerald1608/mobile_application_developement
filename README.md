@@ -1,1 +1,1 @@
-# mobile_application_developement
+# CS1681 - Mobile Application Developement Laboratory
